@@ -1,2 +1,2 @@
 # web-scraping-with-beautiful-soup
-Uso de la librería beautiful para hacer web scraping
+Uso de la librería beautiful soup para hacer web scraping
